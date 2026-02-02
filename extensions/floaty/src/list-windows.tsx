@@ -11,6 +11,7 @@ import {
   showToast,
 } from '@raycast/api'
 import { runAppleScript } from '@raycast/utils'
+
 import { existsSync } from 'fs'
 
 const LIST_WINDOWS_SCRIPT = 'tell application "Floaty" to list windows json'
