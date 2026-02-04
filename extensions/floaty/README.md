@@ -13,7 +13,6 @@ Floaty lets you pin and manage floating windows using the Floaty app ([floatytoo
 ## Commands
 
 - `List Windows` — shows currently available windows managed by Floaty ([src/list-windows.tsx](src/list-windows.tsx)).
-- `Run Floaty Command` — pin or act on a selected window ([src/run-floaty-command.ts](src/run-floaty-command.ts)).
 - `Select Window to Pin` — interactive window picker to pin a window ([src/select-window-to-pin.ts](src/select-window-to-pin.ts)).
 - `Show Main Window` — bring Floaty main UI to front ([src/show-main-window.ts](src/show-main-window.ts)).
 - `Unpin or Restore All Windows` — remove all pins or restore original window state ([src/unpin-or-restore-all-windows.ts](src/unpin-or-restore-all-windows.ts)).
